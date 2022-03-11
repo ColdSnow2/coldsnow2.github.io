@@ -8,3 +8,6 @@ p {
 a {
   color: #DDDDFF;
 }
+a:hover {
+  color: #5050FF
+}
